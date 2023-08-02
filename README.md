@@ -2,8 +2,6 @@
 
 **I'm Sara Fontes and I'm a Computer Science graduate from the University of Minho.**
 
-Feel free to check my profile. ☺️
-
 ##
 
 #### Skills
