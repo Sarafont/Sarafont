@@ -2,8 +2,6 @@
 
 **I'm Sara Fontes and I'm a Computer Science graduate from the University of Minho, currently attending the master's degree in information systems also at Universidade do Minho.**
 
-**Check out my web site here:** https://sarafont.github.io/SaraFontes-website/index.html
-
 ##
 
 #### Skills
